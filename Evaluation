@@ -1,0 +1,13 @@
+Evaluación (Evaluation)
+Resultados Esperados:
+
+Un modelo que identifique correctamente a más del 80% de los clientes con alto riesgo de churn.
+Detección de los principales factores contribuyentes a la fuga, como problemas recurrentes de servicio, insatisfacción con el soporte o planes más competitivos de la competencia.
+Métodos de Evaluación:
+
+Matriz de confusión: Para evaluar la precisión del modelo y el número de falsos positivos/negativos.
+Análisis de impacto: Evaluar el impacto financiero de las acciones propuestas de retención en la empresa.
+Validación con Grupo Piloto:
+
+Aplicar el modelo predictivo a un grupo piloto de clientes para verificar su precisión en un entorno real.
+Medir el churn real en el grupo piloto frente al grupo control.
