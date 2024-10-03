@@ -1,0 +1,11 @@
+Modelado (Modeling)
+Modelos Candidatos:
+
+Regresión logística: Para calcular la probabilidad de que un cliente se dé de baja.
+Árboles de decisión y Random Forest: Para entender las interacciones no lineales entre características y realizar predicciones robustas.
+Gradient Boosting Machines (GBM) o XGBoost: Para mejorar la precisión y manejar conjuntos de datos grandes y complejos.
+Validación de los Modelos:
+
+Dividir el conjunto de datos en un 70% para entrenamiento y un 30% para pruebas.
+Utilizar métricas como el AUC-ROC, precisión, sensibilidad, y especificidad para evaluar el desempeño de los modelos.
+Realizar validaciones cruzadas (k-fold cross-validation) para obtener un rendimiento promedio y evitar el sobreajuste.
