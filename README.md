@@ -38,20 +38,7 @@ Este proyecto se desarrolló utilizando las siguientes herramientas y tecnologí
 - **scikit-learn:** Para la creación de modelos predictivos de clasificación y evaluación.
 - **PowerPoint:** Para la presentación de los resultados y propuesta.
 
-## Cómo Contribuir
-
-Si deseas contribuir a este proyecto:
-
-1. Haz un fork del repositorio.
-2. Crea una rama nueva para tus cambios (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y súbelos (`git commit -m 'Añadir nueva funcionalidad'`).
-4. Sube tus cambios a tu repositorio (`git push origin feature/nueva-funcionalidad`).
-5. Abre un Pull Request para que revisemos tus aportaciones.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ## Contacto
 
-Si tienes alguna duda o sugerencia, por favor contacta a [tu correo o nombre de contacto].
+Si tienes alguna duda o sugerencia, por favor contacta a victor.hervas@tajamar365.com
