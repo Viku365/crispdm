@@ -1,0 +1,13 @@
+Comprensión del Negocio (Business Understanding)
+
+Objetivo Principal: Reducir la fuga de clientes mensualmente de 20 a 10 mediante el uso de modelos predictivos y análisis de datos que permitan a la empresa anticipar los factores de riesgo y tomar medidas preventivas.
+
+Objetivos Específicos:
+
+Identificar las causas más comunes de la fuga de clientes.
+Construir un modelo de predicción que identifique a los clientes con mayor probabilidad de churn.
+Diseñar e implementar estrategias de retención basadas en los resultados del modelo.
+Indicadores de Éxito:
+
+Reducción de la tasa de churn a menos de 10 clientes al mes.
+Precisión del modelo predictivo superior al 80% en la identificación de clientes en riesgo.
