@@ -1,0 +1,13 @@
+Comprensión de los Datos (Data Understanding)
+Fuentes de Datos:
+
+Datos de clientes: Información demográfica (edad, género, ubicación geográfica).
+Historial de churn: Listado de clientes que han dejado la empresa en los últimos meses.
+Historial de uso del servicio: Minutos de llamadas, uso de datos, servicios adicionales (TV, internet, etc.).
+Interacciones con el servicio al cliente: Historial de quejas, consultas y solicitudes de soporte.
+Facturación: Información sobre pagos retrasados o impagos.
+Pasos a Realizar:
+
+Comprender la distribución general de los datos.
+Identificar relaciones entre características y el churn de clientes.
+Detectar valores atípicos y patrones que indiquen alta probabilidad de fuga.
