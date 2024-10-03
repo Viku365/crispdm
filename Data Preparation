@@ -1,0 +1,11 @@
+Preparación de los Datos (Data Preparation)
+Pasos Clave:
+
+Limpieza de datos: Eliminar duplicados, corregir datos erróneos, y manejar datos faltantes.
+Estandarización de variables: Normalizar los datos de variables numéricas y categorizar variables como edad, género, tipo de contrato, etc.
+Segmentación: Dividir los datos de clientes en diferentes segmentos para identificar patrones de comportamiento específicos.
+Generación de Nuevas Variables:
+
+Duración de la relación: Tiempo desde que el cliente se unió a "Malestar".
+Número de interacciones: Cantidad de veces que un cliente ha contactado al servicio de soporte.
+Historial de facturación: Información sobre pagos a tiempo o retrasos en facturas.
